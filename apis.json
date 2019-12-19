@@ -1,0 +1,61 @@
+{
+    "name": "Rancher Labs",
+    "description": "Rancher Labs builds innovative, open source container management software for enterprises leveraging containers to accelerate software development and improve IT operations.     The flagship product, Rancher, is a complete container management platform...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28735-rancher-com.jpg",
+    "tags": [
+        "have api",
+        "kubernetes",
+        "orchestration"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rancher-labs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Rancher Labs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28735-rancher-com.jpg",
+            "humanURL": "https:\/\/rancher.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rancher-labs-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/rancher.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/rancher-labs"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/rancher.com\/docs\/rancher\/v1.6\/en\/api\/v2-beta\/"
+        },
+        {
+            "type": "Forums",
+            "url": "https:\/\/forums.rancher.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/rancher"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Rancher_Labs"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/rancher.com"
+        }
+    ]
+}
